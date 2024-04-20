@@ -1,0 +1,924 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #F6F2F0;
+}
+
+
+.main {
+
+  display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* profile section */
+
+.profile-img {
+  font-family: "Inter", sans-serif;
+  border-radius: 330px;
+  margin-top: 130px;
+  margin-left: 290px;
+
+
+}
+
+.profile-img .pro {
+  font-family: "Inter", sans-serif;
+  width: 400px;
+  border-radius: 28px;
+
+
+
+}
+
+.social {
+  font-family: "Inter", sans-serif;
+  margin-top: 30px;
+  margin-left: 55px;
+
+}
+
+.social button {
+  font-family: "Inter", sans-serif;
+  border: none;
+}
+
+.social button img {
+  font-family: "Inter", sans-serif;
+  margin: 15px;
+
+
+
+
+}
+
+
+.button {
+  font-family: "Inter", sans-serif;
+  border-radius: 15px;
+  margin-top: 30px;
+  margin-left: 38px;
+  padding: 25px 130px;
+  font-size: 20px;
+}
+
+
+.button:hover {
+  border-color: rgb(243, 124, 201);
+  font-family: "Inter", sans-serif;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-top: 30px;
+  margin-left: 38px;
+  padding: 25px 130px;
+  font-size: 20px;
+}
+
+
+.pro-inform .hello {
+  font-family: "Inter", sans-serif;
+  margin-top: 70px;
+  margin-left: 120px;
+  color: rgb(243, 124, 201);
+  font-size: 30px;
+}
+
+
+.pro-inform p {
+  font-family: "Inter", sans-serif;
+  margin-top: 30px;
+  margin-left: 120px;
+  font-size: 80px;
+}
+
+.pro-inform .p {
+  font-family: "Inter", sans-serif;
+
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  Number section */
+
+
+
+.numbers {
+  font-family: "Inter", sans-serif;
+  margin-right: 220px;
+  margin-top: 230px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.number-1 h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 40px;
+  margin: 10px 0px;
+  margin-left: 110px;
+  color: rgb(243, 124, 201);
+}
+
+
+
+
+
+
+.number-1 span {
+  font-family: "Inter", sans-serif;
+  font-size: 23px;
+  margin: 33px;
+}
+
+.number-2 h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 40px;
+  margin: 10px 0px;
+  margin-left: 110px;
+  color: rgb(243, 124, 201);
+}
+
+
+
+
+
+
+.number-2 span {
+  font-family: "Inter", sans-serif;
+  font-size: 23px;
+  margin: 33px;
+
+}
+
+
+.number-3 h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 40px;
+  margin: 10px 0px;
+  margin-left: 110px;
+  color: rgb(243, 124, 201);
+}
+
+
+
+
+
+
+.number-3 span {
+  font-family: "Inter", sans-serif;
+  font-size: 23px;
+  margin: 33px;
+  margin-left: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* about section */
+
+
+
+.about-section {
+  margin-top: 300px;
+
+
+}
+
+
+.about-section .h-3 {
+  color: rgb(243, 124, 201);
+  font-size: 25px;
+  margin: 40px;
+  margin-left: 120px;
+  font-family: "Inter", sans-serif;
+
+
+}
+
+
+.about-section .head-1 {
+  font-family: "Inter", sans-serif;
+  font-size: 45px;
+  margin: 40px;
+  margin-left: 120px;
+
+}
+
+.about-section .para {
+
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Career section */
+
+.Career-section {
+  margin-top: 300px;
+}
+
+.Career-section .h2 {
+  margin: 40px 0px;
+  color: rgb(243, 124, 201);
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  margin-left: 120px;
+
+
+}
+
+
+.Career-section .h-1 {
+  font-size: 40px;
+  margin-bottom: 40px;
+  margin-left: 120px;
+  font-family: "Inter", sans-serif;
+
+}
+
+
+.text {
+  margin: 40px 0px;
+}
+
+
+
+.Career-section .p4 {
+  margin: 10px 0px;
+  font-size: 18px;
+  margin-left: 120px;
+  font-family: "Inter", sans-serif;
+
+}
+
+
+
+.Career-section .h-3 {
+  margin-left: 120px;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  service section */
+
+
+.services-section {
+  margin-top: 300px;
+
+}
+
+
+.services-section .h2 {
+  margin: 40px 0px;
+  color: rgb(243, 124, 201);
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  margin-left: 120px;
+}
+
+
+.services-section .h-3 {
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  margin-left: 120px;
+
+}
+
+
+.services-section .btns {
+  display: flex;
+  font-family: "Inter", sans-serif;
+  margin: 30px 0px;
+  margin-left: 104px;
+}
+
+.services-section .btns .btn:hover {
+  cursor: pointer;
+  border-color: rgb(243, 124, 201);
+  font-family: "Inter", sans-serif;
+  margin: 0px 10px;
+  padding: 18px 45px;
+  border-radius: 10px;
+
+}
+
+
+
+.services-section .btns .btn-1 .btn {
+  font-family: "Inter", sans-serif;
+  margin: 0px 10px;
+  padding: 18px 45px;
+  border-radius: 10px;
+
+}
+
+.services-section .btns .btn-1 .btn .course {
+  margin: 10px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* skill section */
+
+
+
+.skill-section {
+  margin-top: 300px;
+}
+
+
+.skill-section .h2 {
+  margin: 40px 0px;
+  color: rgb(243, 124, 201);
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  margin-left: 120px;
+}
+
+.skill-section .h-03 {
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  margin-left: 120px;
+
+}
+
+
+.soft-img {
+  margin-top: 60px ;
+  margin-left: 108px;
+}
+
+
+.soft-img img {
+  margin: 0px 18px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* portfolio-section */
+
+
+.portfolio-section {
+  margin-top: 300px;
+}
+
+
+
+.portfolio-section .h2 {
+  margin: 40px 0px;
+  color: rgb(243, 124, 201);
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  margin-left: 120px;
+}
+
+
+
+.portfolio-section .h-03 {
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  margin-left: 120px;
+}
+
+
+
+.portfolio-section .up {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  width: 720px;
+  margin-left: 120px;
+
+}
+
+
+
+.imgs {
+
+
+  margin-left: 110px;
+
+}
+
+
+
+.imgs img {
+  margin-left: 10px;
+  width: 353px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Testimonial section */
+
+
+
+.Testimonial-section {
+  margin-top: 300px;
+}
+
+
+.Testimonial-section .h2 {
+  margin: 40px 0px;
+  color: rgb(243, 124, 201);
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  margin-left: 120px;
+}
+
+
+
+.Testimonial-section .h-03 {
+  font-family: "Inter", sans-serif;
+  font-size: 35px;
+  margin-left: 120px;
+}
+
+
+
+
+
+.screen{
+  display: flex;
+}
+
+
+
+
+.Testimonial-section .client-review {
+  margin-left: 120px;
+  border: 1px solid black;
+  margin-top: 20px;
+  padding: 30px 14px;
+  border-radius: 30px;
+ 
+
+
+
+}
+
+
+
+
+
+
+
+.Testimonial-section .client-review .client {
+
+  display: flex;
+
+}
+
+
+.Testimonial-section .client-review .client img {
+  margin-left: 70px;
+  width: 130px;
+  height: 130px;
+  margin-top: 20px;
+}
+
+.Testimonial-section .client-review .client .informa .name {
+  margin-top: 45px;
+  margin-left: 40px;
+  font-family: "Inter", sans-serif;
+  font-size: 30px;
+
+
+}
+
+
+.Testimonial-section .client-review .client .informa .proffe {
+  color: rgb(93, 92, 92);
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+
+
+
+}
+
+.client-comment .comment {
+  font-size: 30px;
+  margin: 20px 0px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 30px;
+  font-family: "Inter", sans-serif;
+
+}
+
+
+
+
+.screen-img img{
+
+border-top-left-radius: 35px;
+border-bottom-left-radius: 35px;
+
+  margin-top: 25px;
+  margin-left:33px ;
+}
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  brands-section */
+
+
+
+
+.brands-section {
+  margin-top: 300px;
+}
+
+
+
+
+.brands-section .h2 {
+  margin: 40px 0px;
+  color: rgb(243, 124, 201);
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  margin-left: 120px;
+}
+
+
+.brands-section .h-03 {
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  margin-left: 120px;
+}
+
+
+
+.brands-section .brand-imgs {
+  margin-left: 120px;
+}
+
+
+.brands-section .brand-imgs .img-1 {
+  font-family: "Inter", sans-serif;
+  margin-top: 50px;
+
+
+}
+
+
+.brands-section .brand-imgs .img-2 {
+  font-family: "Inter", sans-serif;
+  margin-top: 50px;
+  margin-left: 60px;
+}
+
+
+.brands-section .brand-imgs .img-3 {
+  font-family: "Inter", sans-serif;
+  margin-top: 50px;
+  margin-left: 60px;
+}
+
+
+.brands-section .brand-imgs .img-4 {
+  margin-top: 50px;
+  font-family: "Inter", sans-serif;
+  margin-left: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* contact-section */
+
+
+.contact-section {
+  margin-top: 300px;
+}
+
+
+
+
+.contact-section .h2 {
+  margin: 50px 0px;
+  color: rgb(243, 124, 201);
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  margin-left: 120px;
+}
+
+
+.contact-section .form {
+  margin-left: 120px;
+}
+
+
+
+
+.contact-section .form .form-data {
+  margin: 50px 0px;
+  width: 550px;
+  border-bottom: 1px solid rgb(56, 54, 54);
+
+}
+
+
+
+
+
+
+.contact-section .form .form-1 .form-data .label {
+  font-family: "Inter", sans-serif;
+  padding: 10px 0px;
+  color: rgb(56, 54, 54);
+  font-size: 20px;
+}
+
+
+
+
+.contact-section .form .form-1 .form-data .input {
+  padding: 10px 0px;
+  width: 550px;
+  font-family: "Inter", sans-serif;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  color: rgb(56, 54, 54);
+}
+
+
+
+.bott-btn {
+  font-family: "Inter", sans-serif;
+  border-radius: 15px;
+
+  margin-bottom: 18px;
+  padding: 25px 100px;
+  font-size: 20px;
+}
+
+
+
+
+.bott-btn:hover {
+  cursor: pointer;
+  font-family: "Inter", sans-serif;
+  border-radius: 15px;
+  border-color: rgb(243, 124, 201);
+  margin-bottom: 18px;
+  padding: 25px 100px;
+  font-size: 20px;
+}
